@@ -50,3 +50,4 @@
 |昵称|职位|github账号|QQ号|邮箱|编程猫ID|
 |:----:|:----:|----|----|----|----|
 |Mr. Python|社技术经理|[Mr-Python-in-China](https://github.com/Mr-Python-in-China)|2789762371|mr_python@qq.com|761149|
+|Considerations-Of-Life|社主经理|[Considerations-Of-Life](https://github.com/Considerations-Of-Life)|3591737770|3591737770@qq.com|1996102080|
