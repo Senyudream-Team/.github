@@ -49,5 +49,6 @@
 想要加入群聊者或有任何问题请与我们联系！
 |昵称|职位|github账号|QQ号|邮箱|编程猫ID|
 |:----:|:----:|----|----|----|----|
-|Mr. Python|社技术经理|[Mr-Python-in-China](https://github.com/Mr-Python-in-China)|2789762371|mr_python@qq.com|761149|
-|蛟风剑愁|社主经理|[Considerations-Of-Life](https://github.com/Considerations-Of-Life)|3591737770|3591737770@qq.com|1996102080|
+|Mr. Python|社技术经理|[Mr-Python-in-China](https://github.com/Mr-Python-in-China)|2789762371|mr_python@qq.com|[761149](https://shequ.codemao.cn/user/761149)|
+|蛟风剑愁|社主经理|[Considerations-Of-Life](https://github.com/Considerations-Of-Life)|3591737770|3591737770@qq.com|[1996102080](https://shequ.codemao.cn/user/1996102080)|
+|一杯浓浓的方块果汁|~~非常厉害的~~吉祥物||702608095|702608095@qq.com|[7448965](https://shequ.codemao.cn/user/7448965)|
